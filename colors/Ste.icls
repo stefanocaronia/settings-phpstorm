@@ -3,13 +3,14 @@
     <property name="created">2019-12-03T14:08:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-04T15:59:00</property>
+    <property name="modified">2019-12-04T16:47:52</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <colors>
     <option name="GUTTER_BACKGROUND" value="e0f10" />
-    <option name="INDENT_GUIDE" value="242424" />
-    <option name="LINE_NUMBERS_COLOR" value="2f3666" />
+    <option name="INDENT_GUIDE" value="1d1d1d" />
+    <option name="LINE_NUMBERS_COLOR" value="695587" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4f97a4" />
   </colors>
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -98,6 +99,11 @@
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="7a9192" />
+      </value>
+    </option>
+    <option name="HTML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="484055" />
       </value>
     </option>
     <option name="HTML_TAG">
