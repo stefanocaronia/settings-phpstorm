@@ -3,7 +3,7 @@
     <property name="created">2019-12-03T14:08:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-04T15:16:01</property>
+    <property name="modified">2019-12-04T15:59:00</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <colors>
@@ -90,6 +90,28 @@
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="7a8ea9" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="7a9192" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="6270b6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="808ce8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -111,6 +133,12 @@
         <option name="FOREGROUND" value="a9b7c6" />
         <option name="BACKGROUND" value="141414" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TWIG_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="94a1b2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
