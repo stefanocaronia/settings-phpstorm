@@ -4,13 +4,14 @@
     <property name="created">2019-12-03T14:08:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-06T12:50:41</property>
+    <property name="modified">2019-12-06T13:20:42</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
+    <option name="CARET_ROW_COLOR" value="1d1d1d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="d0d0d" />
     <option name="GUTTER_BACKGROUND" value="70808" />
     <option name="INDENT_GUIDE" value="1d1d1d" />
@@ -19,6 +20,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="222222" />
     <option name="RIGHT_MARGIN_COLOR" value="2c2c2c" />
     <option name="SELECTED_TEARLINE_COLOR" value="315478" />
+    <option name="SELECTION_BACKGROUND" value="193365" />
     <option name="SEPARATOR_ABOVE_COLOR" value="3c3f41" />
     <option name="SEPARATOR_BELOW_COLOR" value="3c3f41" />
     <option name="TEARLINE_COLOR" value="383638" />
@@ -27,7 +29,7 @@
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="494949" />
+        <option name="FOREGROUND" value="555555" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -92,7 +94,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="494949" />
+        <option name="FOREGROUND" value="555555" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -136,6 +138,11 @@
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
         <option name="FOREGROUND" value="b4b2cc" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="898b93" />
       </value>
     </option>
     <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
