@@ -3,4 +3,8 @@
     <option name="FONT_FAMILY" value="Droid Sans Mono" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+  </component>
 </application>

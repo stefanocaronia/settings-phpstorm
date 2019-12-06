@@ -4,7 +4,7 @@
     <property name="created">2019-12-03T14:08:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-06T10:44:27</property>
+    <property name="modified">2019-12-06T11:41:34</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono" />
@@ -12,11 +12,14 @@
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="d0d0d" />
-    <option name="GUTTER_BACKGROUND" value="e0f10" />
+    <option name="GUTTER_BACKGROUND" value="70808" />
     <option name="INDENT_GUIDE" value="1d1d1d" />
     <option name="LINE_NUMBERS_COLOR" value="695587" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="4f97a4" />
-    <option name="VISUAL_INDENT_GUIDE" value="646a6a" />
+    <option name="RIGHT_MARGIN_COLOR" value="2c2c2c" />
+    <option name="SELECTED_TEARLINE_COLOR" value="315478" />
+    <option name="TEARLINE_COLOR" value="383638" />
+    <option name="VISUAL_INDENT_GUIDE" value="1e2020" />
   </colors>
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
