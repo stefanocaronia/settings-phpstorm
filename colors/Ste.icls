@@ -4,7 +4,7 @@
     <property name="created">2019-12-03T14:08:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-06T15:09:47</property>
+    <property name="modified">2019-12-09T11:24:04</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono" />
@@ -45,7 +45,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="737171" />
+        <option name="FOREGROUND" value="79836a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
