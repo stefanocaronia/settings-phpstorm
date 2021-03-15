@@ -1,15 +1,15 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="e4dcd482-63f5-4f5b-ad93-9ee52be960e1" name="PHP 7.3" home="M:\bin\php\7.3.27\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="e4dcd482-63f5-4f5b-ad93-9ee52be960e1" name="PHP 7.3" home="F:\bin\php\7.3.27\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="M:\bin\php\7.3.27\php-cgi.exe" php_cli="M:\bin\php\7.3.27\php.exe" path_separator=";" version="7.3.27">
+        <phpinfo binary_type="PHP" php_cgi="F:\bin\php\7.3.27\php-cgi.exe" php_cli="F:\bin\php\7.3.27\php.exe" path_separator=";" version="7.3.27">
           <additional_php_ini />
-          <configuration_file />
+          <configuration_file>F:\bin\php\7.3.27\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
