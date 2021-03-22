@@ -8,11 +8,19 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl #10000f2" />
   </action>
+  <action id="Console.Jdbc.Terminate" />
+  <action id="DatabaseView.CloseConnectionAction" />
   <action id="EditorDeleteLine" />
   <action id="IntroduceField" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
+  <action id="RunDashboard.Stop" />
   <action id="ShowFilterPopup" />
+  <action id="Stop" />
 </keymap>
