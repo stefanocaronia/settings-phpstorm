@@ -13,6 +13,7 @@
   <PHPCodeStyleSettings>
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
+    <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
