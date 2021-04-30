@@ -2,10 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.yaml" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.html</mask>
     <mask>*.inc</mask>
     <mask>*.php4</mask>
@@ -17,10 +19,10 @@
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.yaml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
