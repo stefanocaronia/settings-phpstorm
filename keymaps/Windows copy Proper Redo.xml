@@ -10,7 +10,9 @@
   </action>
   <action id="Console.Jdbc.Terminate" />
   <action id="DatabaseView.CloseConnectionAction" />
-  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
   <action id="IntroduceField" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -23,4 +25,7 @@
   <action id="RunDashboard.Stop" />
   <action id="ShowFilterPopup" />
   <action id="Stop" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
 </keymap>
