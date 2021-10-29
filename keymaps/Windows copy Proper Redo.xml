@@ -13,6 +13,10 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="GotoSuperMethod" />
   <action id="IntroduceField" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -28,4 +32,5 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
 </keymap>
