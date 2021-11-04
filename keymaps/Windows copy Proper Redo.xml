@@ -17,6 +17,7 @@
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="GotoSuperMethod" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="IntroduceField" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -32,5 +33,13 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="copilot.cycleNextInlays">
+    <keyboard-shortcut first-keystroke="alt #10000ec" />
+    <keyboard-shortcut first-keystroke="ctrl #10000ec" />
+  </action>
+  <action id="copilot.cyclePrevInlays">
+    <keyboard-shortcut first-keystroke="alt quote" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
   <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
 </keymap>
