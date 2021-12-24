@@ -17,7 +17,7 @@
     <mask>*.yaml</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
-    <mask>*.scss</mask>
     <mask>*.twig</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
