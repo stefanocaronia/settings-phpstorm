@@ -2,6 +2,7 @@
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
     <option name="inlayTextColor" value="#65d46f" />
+    <option name="showIdeCompletions" value="true" />
     <option name="telemetryTermsAcceptedDate" value="2021-11-04T10:54:31.9163048+01:00[Europe/Berlin]" />
   </component>
 </application>
