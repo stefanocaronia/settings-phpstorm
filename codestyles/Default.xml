@@ -11,7 +11,7 @@
     <option name="IMPORTS_WRAP" value="0" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
-    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
+    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
   </PHPCodeStyleSettings>
   <VueCodeStyleSettings>
