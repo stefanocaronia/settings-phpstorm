@@ -1,0 +1,8 @@
+<application>
+  <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="WslNodeInterpreterManager">
+    <wsl-interpreter distribution="Ubuntu-20.04" path="/home/stefano/.nvm/versions/node/v12.18.4/bin/node" />
+  </component>
+</application>
