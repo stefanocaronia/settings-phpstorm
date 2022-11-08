@@ -6,11 +6,6 @@
         <option value="Italian" />
       </set>
     </option>
-    <option name="userEnabledRules">
-      <set>
-        <option value="LanguageTool.EN.WHITESPACE_RULE" />
-      </set>
-    </option>
     <option name="suppressingContext">
       <SuppressingContext>
         <option name="suppressed">
