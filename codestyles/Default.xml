@@ -11,6 +11,7 @@
     <option name="IMPORTS_WRAP" value="0" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
+    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
   </PHPCodeStyleSettings>
