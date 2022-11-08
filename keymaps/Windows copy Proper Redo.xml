@@ -33,6 +33,9 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="copilot.applyInlays">
+    <keyboard-shortcut first-keystroke="tab" second-keystroke="enter" />
+  </action>
   <action id="copilot.cycleNextInlays">
     <keyboard-shortcut first-keystroke="alt #10000ec" />
     <keyboard-shortcut first-keystroke="ctrl #10000ec" />
